@@ -1,4 +1,4 @@
-# 🧬 ARAG_PHARMA — Adaptable Retreival Augmented generation for Pharmaceuticals
+# 🧬 Adaptive Pharma RAG — Adaptable Retreival Augmented generation for Pharmaceuticals
 
 > **Powered by: Groq (free) · FDA · PubMed · ClinicalTrials.gov · Local Embeddings**  
 > 
